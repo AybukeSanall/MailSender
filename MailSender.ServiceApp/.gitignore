@@ -398,7 +398,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-
-./MailSender/bin
-./MailSender.ServiceApp/bin
