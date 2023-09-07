@@ -25,6 +25,6 @@ namespace MailSender.Controllers
                 return BadRequest(new { Error = result.Message });
             }
         }
-    }
+    }  
 }
 //
