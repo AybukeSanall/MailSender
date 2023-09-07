@@ -1,0 +1,12 @@
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\bin\Debug\net6.0\MailSender.ServiceApp.deps.json
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\bin\Debug\net6.0\MailSender.ServiceApp.dll
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\bin\Debug\net6.0\MailSender.ServiceApp.pdb
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.csproj.AssemblyReference.cache
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.AssemblyInfoInputs.cache
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.AssemblyInfo.cs
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.dll
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\refint\MailSender.ServiceApp.dll
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\MailSender.ServiceApp.pdb
+C:\Users\aybuk\source\repos\MailSender\MailSender.ServiceApp\obj\Debug\net6.0\ref\MailSender.ServiceApp.dll
