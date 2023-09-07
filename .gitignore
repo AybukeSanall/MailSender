@@ -40,6 +40,8 @@ bld/
 # Visual Studio 2017 auto generated files
 Generated\ Files/
 
+
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -396,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+./MailSender/bin
+./MailSender.ServiceApp/bin
