@@ -5,8 +5,8 @@ This project is an example of a Web API developed using .NET Core 6.0. It facili
 SendGrid (used for email sending) 
 
 Docker (used for containerization)
-## Gereksinimler
-Requirements
+## Requirements
+
 To run this Mail Sender Web API application, you'll need the following requirements:
 
 - .NET Core 6.0 SDK: Make sure you have .NET Core 6.0 SDK installed. You can download it from Microsoft's .NET Download page.
@@ -25,7 +25,7 @@ Install-Package SendGrid
 ## Usage Instructions
 1-Clone this repository or 
 [download it as a ZIP file.](https://github.com/AybukeSanall/MailSender.git)  
-2-Visit the SendGrid website and obtain an API key.
+2-Visit the [SendGrid](https://app.sendgrid.com/) website and obtain an API key.
 
 3-You need to define your API key in the "appsettings.json" file located in the root directory of your project. The content of the file should look like this:
 
